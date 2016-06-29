@@ -4,6 +4,18 @@
 
 A website and user system, implemented with [MongoDB](https://www.mongodb.org/), [Express](http://expressjs.com/), [AngularJS](https://angularjs.org/) and [Node.js](https://nodejs.org/), a.k.a MEAN stack.
 Inspired by and forked from [Drywall](https://github.com/jedireza/drywall).
+## Todo: Upgrade to angular2
+
+* Backbone: [A website and user system (Express/Backbone)](https://github.com/jedireza/drywall)
+* Angularjs: [A MEAN stack User Management web app](https://github.com/arthurkao/angular-drywall)
+* Angular2: To Be Done... [Drywall with Angular 2](https://github.com/zixia/drywall-angular2)
+
+## Contact me to Angular2-lify drywall together
+Zhuohuan LI <zixia@zixia.net> (http://linkedin.com/in/zixia)
+
+<a href="http://stackoverflow.com/users/1123955/zixia">
+  <img src="http://stackoverflow.com/users/flair/1123955.png" width="208" height="58" alt="profile for zixia at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for zixia at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 ## Features
 
