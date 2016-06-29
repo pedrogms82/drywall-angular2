@@ -1,4 +1,4 @@
-# [Angular-Drywall](http://arthurkao.github.io/angular-drywall)
+# Drywall-Angular2
 
 [![Build Status](https://travis-ci.org/arthurkao/angular-drywall.svg?branch=master)](https://travis-ci.org/arthurkao/angular-drywall)
 
